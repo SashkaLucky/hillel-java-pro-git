@@ -27,5 +27,7 @@ public class Calculator {
             throw new java.lang.Error("Operator not recognized");
         }
         System.out.println("Result: " + z);
+
+        //testing is complete
     }
 }
